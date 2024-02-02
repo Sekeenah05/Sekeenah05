@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sekeenah05
+- 👋 Hi, I’m @Sekeenah
+- A student of Kwara State University
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on a project
